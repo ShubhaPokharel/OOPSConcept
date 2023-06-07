@@ -22,3 +22,13 @@ Features of OOPS:
 6 - New methods and data can be easily added whenever necessary.
 
 7 - Objects communicate with each other through methods.
+
+OOPS principales are: 
+
+1. Inheritance
+
+2. Polymorphism
+
+3. Abstraction
+
+4. Encapsulation
